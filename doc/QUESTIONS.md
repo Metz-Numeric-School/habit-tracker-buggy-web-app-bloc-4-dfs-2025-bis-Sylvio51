@@ -12,4 +12,7 @@ Répondez ici aux questions théoriques en détaillant un maxium vos réponses :
 
 2. Comment faire pour qu'un nom de domaine pointe vers une adresse IP spécifique ?
 
+Sur l'hébergeur, il faut aller dans la zone DNS pour rediriger le nom de domaine vers l'IP spécifique. En somme, ici, il faudrait dans zone DNS redirigé vers 172.17.4.25.
+
 3. Comment mettre en place un certificat SSL ?
+Il faut installer un certificat SSL dans la configuration du site sur aaPanel dans l'onglet SSL.
