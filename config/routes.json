@@ -56,5 +56,10 @@
         "path": "/api/habits",
         "controller": "App\\Controller\\Api\\HabitsController",
         "action": "index"
+    },
+        {
+        "path": "/habit/toggle",
+        "controller": "App\\Controller\\Member\\HabitsController",
+        "action": "toggle"
     }
 ]
