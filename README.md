@@ -54,7 +54,7 @@ Le code doit impérativement être push sur le repo GitHub Classroom qui vous a 
 
 # Identifiants pour la correction
 ## ADMIN :
-  email : admin@ht-buggy-wapp.fr
+  email : admin@ht-buggy-wapp2.fr
   pwd : azertyuiop
 
 ## User :
