@@ -27,9 +27,9 @@
                             <p class="mb-1 text-muted">Progression 7 derniers jours :</p>
                             <div class="progress mb-2">
                                 <div class="progress-bar" role="progressbar" 
-                                     style="width: <?= $habit->getProgress(7) ?>%;" 
-                                     aria-valuenow="<?= $habit->getProgress(7) ?>" 
-                                     aria-valuemin="0" aria-valuemax="100">
+                                    style="width: <?= $habit->getProgress(7) ?>%;" 
+                                    aria-valuenow="<?= $habit->getProgress(7) ?>" 
+                                    aria-valuemin="0" aria-valuemax="100">
                                     <?= $habit->getProgress(7) ?>%
                                 </div>
                             </div>

@@ -38,7 +38,7 @@ Pour lancer le projet, vous devez impérativement passer par la commande : `php 
 
 ### Création de la base de données
 
-Pour créer la base de données vous pouvez lancer la commande : `php bin/create-database `
+Pour créer la base de données vous pouvez lancer la commande : `php bin/create-database`
 
 Un compte admin et utilisateurs seront également créés *(vous trouverez les informations dans le script database.sql)*
 
