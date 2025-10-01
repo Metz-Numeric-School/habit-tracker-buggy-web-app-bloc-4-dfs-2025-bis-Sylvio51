@@ -51,3 +51,12 @@ Le code doit impérativement être push sur le repo GitHub Classroom qui vous a 
 **!!! ATTENTION : la partie 2 ne sera pas évaluée si ce n'est pas le cas !!!**
 
 # BONNE CHANCE
+
+# Identifiants pour la correction
+## ADMIN :
+  email : admin@ht-buggy-wapp.fr
+  pwd : azertyuiop
+
+## User :
+  email : test@test3.com
+  pwd : 123456
